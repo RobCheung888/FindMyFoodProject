@@ -17,7 +17,7 @@ body{
 
 #SignInButton {
 
-
+margin-left: 700px;;
 }
 
 #mainbar_name {
@@ -38,5 +38,9 @@ body{
 }
 
 #logobar{
-  margin-left: 800px;
+  position: absolute;
+width: 352px;
+height: 211px;
+left: 220px;
+top: 36px;
 }
